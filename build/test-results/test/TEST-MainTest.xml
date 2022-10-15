@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-15T16:06:59" hostname="DESKTOP-2AQDBA8" time="0.026">
+  <properties/>
+  <testcase name="helloWorld()" classname="MainTest" time="0.023"/>
+  <testcase name="testFirstValue()" classname="MainTest" time="0.002"/>
+  <system-out><![CDATA[Hello world
+Hello world
+Hello world
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
